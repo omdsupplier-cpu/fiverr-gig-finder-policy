@@ -1,6 +1,6 @@
 # Fiverr Gig Finder - Privacy Policy
 
-_Last updated: [Month Day, Year]_
+_Last updated: [October 27, 2025]_
 
 ## Overview
 Fiverr Gig Finder is a Chrome extension that helps users discover relevant Fiverr freelancers based on the website they are browsing. We respect your privacy and are committed to protecting your personal data.
