@@ -30,6 +30,7 @@ All data processed by the extension remains local to your device. We do not use 
 
 ## Third-Party Links
 Our extension may include links to Fiverr.com. Once you click these links, you are subject to Fiverr’s own Privacy Policy.
+We might earn some affiliate commission if you purchase through our links, no worries it's will not be extra cost coming from you, it will be coming from the Fiverr affiliate program.
 
 ## Contact
 If you have any questions about this Privacy Policy, you can contact us at:
